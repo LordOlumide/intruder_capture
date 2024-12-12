@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1039962649966",
+    "firebase_url": "https://intrudercapture-default-rtdb.firebaseio.com",
+    "project_id": "intrudercapture",
+    "storage_bucket": "intrudercapture.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039962649966:android:0b0e40ce46bf630f573d7f",
+        "android_client_info": {
+          "package_name": "com.example.intruder_capture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WliWdJ6KhaYyScnidM2kubouGTyw8p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
