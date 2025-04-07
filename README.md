@@ -18,7 +18,7 @@ This repo is for the mobile app side of the project.
 
 ## Screenshots
 
-<img src="screenshots/surveillance_app.jpg" width="300">
+<img src="screenshots/surveillance_app.jpeg" width="300">
 
 
 ## 🛠️ Tech Stack
